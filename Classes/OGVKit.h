@@ -12,6 +12,9 @@
 #import <AVFoundation/AVFoundation.h>
 
 @class OGVKit;
+@class OGVMuxer;
+@class OGVVideoEncoder;
+@class OGVAudioEncoder;
 
 #import "OGVQueue.h"
 
