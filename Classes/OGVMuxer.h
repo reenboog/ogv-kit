@@ -5,6 +5,7 @@
 //  Copyright (c) 2016 Brion Vibber. All rights reserved.
 //
 
+@class OGVOutputStream;
 
 @interface OGVMuxer : NSObject
 
